@@ -8,16 +8,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdd56a99-f450-4b27-b480-fd7e29f8957f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/devjr/back/entity/Document.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/devjr/back/entity/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/back.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/back.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/devjr/back/BackApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/devjr/back/BackApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/devjr/back/BackApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/devjr/back/BackApplicationTests.class" afterDir="false" />
-    </list>
+    <list default="true" id="bdd56a99-f450-4b27-b480-fd7e29f8957f" name="Default Changelist" comment="configurando banco" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +80,21 @@
       <option name="presentableId" value="Default" />
       <updated>1603408715750</updated>
     </task>
+    <task id="LOCAL-00001" summary="configurando banco">
+      <created>1603419263174</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603419263174</updated>
+    </task>
+    <task id="LOCAL-00002" summary="configurando banco">
+      <created>1603419358705</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603419358705</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +108,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="configurando banco" />
+    <option name="LAST_COMMIT_MESSAGE" value="configurando banco" />
   </component>
   <component name="WindowStateProjectService">
     <state x="177" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603411982910">
@@ -132,5 +142,13 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="208" y="31" width="1022" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1603408794607" />
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603419362748">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1603419362748" />
+    <state x="500" y="312" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603419443794">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="500" y="312" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1294.741@72.27.1294.741" timestamp="1603419443794" />
   </component>
 </project>
