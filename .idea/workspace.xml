@@ -8,7 +8,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdd56a99-f450-4b27-b480-fd7e29f8957f" name="Default Changelist" comment="configurando banco" />
+    <list default="true" id="bdd56a99-f450-4b27-b480-fd7e29f8957f" name="Default Changelist" comment="configurando banco">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,9 +148,9 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1294.741@72.27.1294.741" timestamp="1603419362748" />
-    <state x="500" y="312" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603419443794">
+    <state x="500" y="312" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603419503813">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="500" y="312" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1294.741@72.27.1294.741" timestamp="1603419443794" />
+    <state x="500" y="312" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1294.741@72.27.1294.741" timestamp="1603419503813" />
   </component>
 </project>
