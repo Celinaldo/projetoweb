@@ -23,6 +23,17 @@ public class Pessoa {
     @OneToMany(mappedBy = "pessoa")
     private List<Document> documents;
 
+    @ManyToMany(mappedBy = "funcionarios")
+    List<Empresa> empresa;
+
+
+    public List<Empresa> getEmpresa() {
+        return empresa;
+    }
+
+    public void setEmpresa(List<Empresa> empresa) {
+        this.empresa = empresa;
+    }
 
     public long getId() {
         return id;
