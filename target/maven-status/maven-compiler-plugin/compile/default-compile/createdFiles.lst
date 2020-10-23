@@ -1,1 +1,3 @@
 com/devjr/back/BackApplication.class
+com/devjr/back/entity/Document.class
+com/devjr/back/entity/Pessoa.class

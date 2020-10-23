@@ -1,14 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdd56a99-f450-4b27-b480-fd7e29f8957f" name="Default Changelist" comment="" />
+    <list default="true" id="bdd56a99-f450-4b27-b480-fd7e29f8957f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devjr/back/entity/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/devjr/back/entity/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/back.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/back.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/devjr/back/BackApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/devjr/back/BackApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/devjr/back/BackApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/devjr/back/BackApplicationTests.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1jFnTR5bxdw77koYsKD6vgQcECV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -17,6 +52,33 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="run" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -29,7 +91,43 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="177" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603411982910">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="177" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1294.741@72.27.1294.741" timestamp="1603411982910" />
+    <state x="527" y="84" width="374" height="633" key="#com.intellij.ide.util.MemberChooser" timestamp="1603419128428">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="527" y="84" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/72.27.1294.741@72.27.1294.741" timestamp="1603419128428" />
+    <state width="1248" height="256" key="GridCell.Tab.0.bottom" timestamp="1603417648837">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="256" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1603417648837" />
+    <state width="1248" height="256" key="GridCell.Tab.0.center" timestamp="1603417648837">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="256" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1603417648837" />
+    <state width="1248" height="256" key="GridCell.Tab.0.left" timestamp="1603417648836">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="256" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1603417648836" />
+    <state width="1248" height="256" key="GridCell.Tab.0.right" timestamp="1603417648837">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="256" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1603417648837" />
     <state x="208" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1603408794607">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
